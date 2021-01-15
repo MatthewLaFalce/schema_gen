@@ -1,0 +1,6 @@
+= schema_gen
+
+Describe your project here
+
+:include:schema_gen.rdoc
+
